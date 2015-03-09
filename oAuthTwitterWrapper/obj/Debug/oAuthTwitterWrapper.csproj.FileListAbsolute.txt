@@ -1,0 +1,8 @@
+e:\Users\MrnMrs Masroor\Desktop\oAuthTwitterWrapper-master\oAuthTwitterWrapper-master\oAuthTwitterWrapper\bin\Debug\oAuthTwitterWrapper.dll.config
+e:\Users\MrnMrs Masroor\Desktop\oAuthTwitterWrapper-master\oAuthTwitterWrapper-master\oAuthTwitterWrapper\bin\Debug\oAuthTwitterWrapper.dll
+e:\Users\MrnMrs Masroor\Desktop\oAuthTwitterWrapper-master\oAuthTwitterWrapper-master\oAuthTwitterWrapper\bin\Debug\oAuthTwitterWrapper.pdb
+e:\Users\MrnMrs Masroor\Desktop\oAuthTwitterWrapper-master\oAuthTwitterWrapper-master\oAuthTwitterWrapper\bin\Debug\Newtonsoft.Json.dll
+e:\Users\MrnMrs Masroor\Desktop\oAuthTwitterWrapper-master\oAuthTwitterWrapper-master\oAuthTwitterWrapper\bin\Debug\Newtonsoft.Json.xml
+e:\Users\MrnMrs Masroor\Desktop\oAuthTwitterWrapper-master\oAuthTwitterWrapper-master\oAuthTwitterWrapper\obj\Debug\oAuthTwitterWrapper.csprojResolveAssemblyReference.cache
+e:\Users\MrnMrs Masroor\Desktop\oAuthTwitterWrapper-master\oAuthTwitterWrapper-master\oAuthTwitterWrapper\obj\Debug\oAuthTwitterWrapper.dll
+e:\Users\MrnMrs Masroor\Desktop\oAuthTwitterWrapper-master\oAuthTwitterWrapper-master\oAuthTwitterWrapper\obj\Debug\oAuthTwitterWrapper.pdb
